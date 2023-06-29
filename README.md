@@ -36,13 +36,12 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
   - [Tests](#tests)
   - [Issues](#issues)
   - [Developer](#developer)
-  
-  
+
   ## License
   MIT
   
   ## Tests
-  Yes
+https://watch.screencastify.com/v/oOCUI9UnoKCWO3F8wuvR
 
   ## Developer
   Name:Heather Starr
